@@ -19,13 +19,23 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. It's okay if features repeat on different apps
-Markup : * Instagram
-              * Nested bull
-          * Bullet list item 2
-1)Instagram
-Changing the background color of the messages screen
-Deleting old messages
+# Spotify
+- discover weekly feature and daily mixes.
+- switching between different devices in the middle of the song playing.
+
+# Youtube
+- how the video starts playing if your cursor is on it without you clicking on it
+- autoplay suggestions after a video ends
+
+# Google Calendar
+-  Automatically adds meetings from Gmail and sshows if there is another event clashing with something you are trying to schedule
+-  You can color code your events
+-  Different options to view your schedule: day, week, month, and year. 
+
 Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not committing to this idea, but it helps to start brainstorming early on and get feedback from your peers and instructors.
+
+Since I am a third year college student, I have noticed and observed how students study and what are some things that can benefit them. One of the most important things is collaborationa nd working togehter to help eachother understand vital concepts. So I want to create a course based student collaboration app. Instead of scattered groupchats on Discord and Groupme, students simply select the courses they are taking and join communities of peers, regardless of the lecture session or instructor. Within each course space or cimmunity, students can share notes, ask assignment questions, and schedule study sessions, all in one place. I want to implement features like online meeting rooms, topic tagging, polls, etc. 
+
 
 ## Notes
 
