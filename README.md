@@ -6,7 +6,7 @@ Submitted by: **Ibrahim Tahir**
 
 **Codepath IOS prework project** is an app that lists a bunch of labels and has a button that switches the background color everytime it is pressed 
 
-Time spent: **1** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
